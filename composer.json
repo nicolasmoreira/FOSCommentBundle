@@ -40,11 +40,6 @@
     },
     "require-dev": {
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
-        }
-    },
     "autoload": {
         "psr-0": { "FOS\\CommentBundle": "" }
     },
